@@ -1,0 +1,222 @@
+[
+  {
+    "id": "p1",
+    "skill": "HTML",
+    "level": "past",
+    "image": {
+      "src": "html.svg",
+      "alt": "HTML Logo"
+    },
+    "link": "https://nodejs.org/docs/latest/api/"
+  },
+  {
+    "id": "p2",
+    "skill": "CSS",
+    "level": "past",
+    "image": {
+      "src": "css.svg",
+      "alt": "CSS Logo"
+    },
+    "link": "www.google.com"
+  },
+  {
+    "id": "p3",
+    "skill": "JavaScript",
+    "level": "past",
+    "image": {
+      "src": "javascript.svg",
+      "alt": "JavaScript Logo"
+    },
+    "link": "www.google.com"
+  },
+  {
+    "id": "p4",
+    "skill": "Python",
+    "level": "past",
+    "image": {
+      "src": "python.svg",
+      "alt": "Python Logo"
+    },
+    "link": "www.google.com"
+  },
+  {
+    "id": "p5",
+    "skill": "TypeScript",
+    "level": "current",
+    "image": {
+      "src": "typescript.svg",
+      "alt": "TypeScript Logo"
+    },
+    "link": "www.google.com"
+  },
+  {
+    "id": "p6",
+    "skill": "C#",
+    "level": "future",
+    "image": {
+      "src": "csharp.svg",
+      "alt": "C# Logo"
+    },
+    "link": "www.google.com"
+  },
+  {
+    "id": "p7",
+    "skill": "Docker",
+    "level": "future",
+    "image": {
+      "src": "docker.svg",
+      "alt": "Docker Logo"
+    },
+    "link": "www.google.com"
+  },
+  {
+    "id": "p8",
+    "skill": "ExpressJS",
+    "level": "future",
+    "image": {
+      "src": "expressjs.svg",
+      "alt": "ExpressJS Logo"
+    },
+    "link": "www.google.com"
+  },
+  {
+    "id": "p9",
+    "skill": "FastAPI",
+    "level": "past",
+    "image": {
+      "src": "fastapi.svg",
+      "alt": "FastAPI Logo"
+    },
+    "link": "www.google.com"
+  },
+  {
+    "id": "p10",
+    "skill": "Git",
+    "level": "past",
+    "image": {
+      "src": "git.svg",
+      "alt": "Git Logo"
+    },
+    "link": "www.google.com"
+  },
+  {
+    "id": "p11",
+    "skill": "Github",
+    "level": "past",
+    "image": {
+      "src": "github.svg",
+      "alt": "Github Logo"
+    },
+    "link": "www.google.com"
+  },
+  {
+    "id": "p12",
+    "skill": "Jest",
+    "level": "future",
+    "image": {
+      "src": "jest.svg",
+      "alt": "Jest Logo"
+    },
+    "link": "www.google.com"
+  },
+  {
+    "id": "p13",
+    "skill": "Kubernetes",
+    "level": "future",
+    "image": {
+      "src": "kubernetes.svg",
+      "alt": "Kubernetes Logo"
+    },
+    "link": "www.google.com"
+  },
+  {
+    "id": "p14",
+    "skill": "MongoDB",
+    "level": "future",
+    "image": {
+      "src": "mongodb.svg",
+      "alt": "MongoDB Logo"
+    },
+    "link": "www.google.com"
+  },
+  {
+    "id": "p15",
+    "skill": "NextJS",
+    "level": "current",
+    "image": {
+      "src": "nextjs.svg",
+      "alt": "NextJS Logo"
+    },
+    "link": "www.google.com"
+  },
+  {
+    "id": "p16",
+    "skill": "NodeJS",
+    "level": "future",
+    "image": {
+      "src": "nodejs.svg",
+      "alt": "NodeJS Logo"
+    },
+    "link": "www.google.com"
+  },
+  {
+    "id": "p17",
+    "skill": "NumPy",
+    "level": "past",
+    "image": {
+      "src": "numpy.svg",
+      "alt": "NumPy Logo"
+    },
+    "link": "www.google.com"
+  },
+  {
+    "id": "p18",
+    "skill": "Pandas",
+    "level": "past",
+    "image": {
+      "src": "pandas.svg",
+      "alt": "Pandas Logo"
+    },
+    "link": "www.google.com"
+  },
+  {
+    "id": "p19",
+    "skill": "Prisma",
+    "level": "future",
+    "image": {
+      "src": "prisma.svg",
+      "alt": "Prisma Logo"
+    },
+    "link": "www.google.com"
+  },
+  {
+    "id": "p20",
+    "skill": "React",
+    "level": "current",
+    "image": {
+      "src": "react.svg",
+      "alt": "React Logo"
+    },
+    "link": "www.google.com"
+  },
+  {
+    "id": "p21",
+    "skill": "TailwindCSS",
+    "level": "current",
+    "image": {
+      "src": "tailwind.svg",
+      "alt": "TailwindCSS Logo"
+    },
+    "link": "www.google.com"
+  },
+  {
+    "id": "p22",
+    "skill": "VSCode",
+    "level": "past",
+    "image": {
+      "src": "vscode.svg",
+      "alt": "VSCode Logo"
+    },
+    "link": "www.google.com"
+  }
+]
