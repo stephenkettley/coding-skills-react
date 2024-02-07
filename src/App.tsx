@@ -45,6 +45,9 @@ function App() {
   return (
     <>
       <h1 className="font-bold text-5xl text-center m-10 mt-20">Skill List.</h1>
+      <p className="text-center">
+        <code>Click the link to go to the docs.</code>
+      </p>
       <div className="flex flex-col items-center">
         <SkillGroup
           groupHeading="Skills I Have"
