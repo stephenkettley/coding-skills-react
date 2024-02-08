@@ -1,30 +1,11 @@
-# React + TypeScript + Vite
+# Coding Skill List
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A display of my current and future programming skills. This project uses a simple Node/Express backend to extract the skills into their relevant groups and displays them using React (with the addition of shadcn/ui) as well as TailwindCSS.
 
-Currently, two official plugins are available:
+<img width="1413" alt="image" src="https://github.com/stephenkettley/coding-skills-react/assets/109079565/e6c4238f-5441-4fc5-b4b8-06b546197b25">
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img width="1407" alt="image" src="https://github.com/stephenkettley/coding-skills-react/assets/109079565/8f6d965b-d2f3-4c25-acac-be29748529de">
 
-## Expanding the ESLint configuration
+<img width="1404" alt="image" src="https://github.com/stephenkettley/coding-skills-react/assets/109079565/565b4757-341f-4cfb-b541-1f0a20b8795c">
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
 
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
