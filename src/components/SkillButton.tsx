@@ -1,4 +1,9 @@
-const SkillButton = ({ text, link }) => {
+type SkillButtonProps = {
+  text: string;
+  link: string;
+};
+
+const SkillButton = ({ text, link }: SkillButtonProps) => {
   return (
     <a
       href={link}
