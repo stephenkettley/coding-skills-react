@@ -1,6 +1,12 @@
 import SkillButton from "./SkillButton";
 
-const SkillCard = ({ imageSource, buttonText, buttonLink }) => {
+type SkillCardProps = {
+  imageSource: string;
+  buttonText: string;
+  buttonLink: string;
+};
+
+const SkillCard = ({ imageSource, buttonText, buttonLink }: SkillCardProps) => {
   return (
     <div className="flex flex-col lg:w-72 w-48 gap-4 border border-slate-800 py-7 px-10 bg-slate-300 hover:shadow-md hover:scale-[1.02] rounded-xl transition duration-400">
       <img

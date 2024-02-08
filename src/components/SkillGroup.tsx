@@ -7,7 +7,23 @@ import {
   CarouselPrevious,
 } from "./ui/carousel";
 
-const SkillGroup = ({ groupHeading, skills }) => {
+type SkillObject = {
+  id: string;
+  skill: string;
+  level: string;
+  image: {
+    src: string;
+    alt: string;
+  };
+  link: string;
+};
+
+type SkillGroupProps = {
+  groupHeading: string;
+  skills: SkillObject[];
+};
+
+const SkillGroup = ({ groupHeading, skills }: SkillGroupProps) => {
   return (
     <div className="flex flex-col gap-4 items-center justify-center bg-slate-100 shadow-xl shadow-slate-600 max-w-screen w-8/12 py-8 my-8 px-10 rounded-2xl">
       <h1 className="font-bold text-3xl my-8 text-center">{groupHeading}.</h1>
